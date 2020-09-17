@@ -2,7 +2,7 @@
 
 This is a modification on the original example by the SI Data Science lab to recreate the first part of the jupyter notebook for "Using Dask to parse and filter collections metadata on AWS" in Command Line Python
 
-###Pre-reqs for Python environment
+### Pre-reqs for Python environment
 
 Some additional libraries are needed for Python 3, please run the following commands in terminal to install them:
 
@@ -23,7 +23,7 @@ Pandas
 ```pip install pandas```
 
 
-###Running the file
+### Running the file
 
 Run the file in python by typing
 
