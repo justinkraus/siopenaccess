@@ -1,0 +1,177 @@
+{
+  "id": "edanmdm-saam_1982.80.4",
+  "version": "",
+  "unitCode": "SAAM",
+  "linkedId": "0",
+  "type": "edanmdm",
+  "content": {
+    "descriptiveNonRepeating": {
+      "record_ID": "saam_1982.80.4",
+      "online_media": {
+        "mediaCount": 1,
+        "media": [
+          {
+            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=SAAM-1982.80.4_1",
+            "idsId": "SAAM-1982.80.4_1",
+            "usage": {
+              "access": "CC0"
+            },
+            "guid": "http://n2t.net/ark:/65665/bj9d30860ea-e7c4-4a19-92fb-571c074137bd",
+            "type": "Images",
+            "content": "https://ids.si.edu/ids/deliveryService?id=SAAM-1982.80.4_1",
+            "resources": [
+              {
+                "label": "High-resolution TIFF",
+                "url": "https://ids.si.edu/ids/download?id=SAAM-1982.80.4_1.tif"
+              },
+              {
+                "label": "High-resolution JPEG (1776x1776)",
+                "url": "https://ids.si.edu/ids/download?id=SAAM-1982.80.4_1.jpg"
+              },
+              {
+                "label": "Screen Image",
+                "url": "https://ids.si.edu/ids/download?id=SAAM-1982.80.4_1_screen"
+              },
+              {
+                "label": "Thumbnail Image",
+                "url": "https://ids.si.edu/ids/download?id=SAAM-1982.80.4_1_thumb"
+              }
+            ]
+          }
+        ]
+      },
+      "unit_code": "SAAM",
+      "title_sort": "UNTITLED",
+      "guid": "http://n2t.net/ark:/65665/vk77aeffdb0-0eb8-49f5-a78a-bf6b1e1d24f8",
+      "record_link": "https://americanart.si.edu/collections/search/artwork/?id=17196",
+      "title": {
+        "label": "Title",
+        "content": "Untitled"
+      },
+      "metadata_usage": {
+        "access": "CC0"
+      },
+      "data_source": "Smithsonian American Art Museum"
+    },
+    "indexedStructured": {
+      "date": [
+        "1910s"
+      ],
+      "object_type": [
+        "Graphic arts"
+      ],
+      "name": [
+        "McMillen, Mildred"
+      ],
+      "topic": [
+        "Industrialization",
+        "Construction",
+        "Landscapes",
+        "Roof",
+        "Architecture",
+        "Occupations",
+        "Figure group",
+        "Fence",
+        "Detail"
+      ],
+      "usage_flag": [
+        "permcoll"
+      ],
+      "online_media_type": [
+        "Images"
+      ]
+    },
+    "freetext": {
+      "setName": [
+        {
+          "label": "See more items in",
+          "content": "Smithsonian American Art Museum Collection"
+        },
+        {
+          "label": "Department",
+          "content": "Graphic Arts"
+        }
+      ],
+      "date": [
+        {
+          "label": "Date",
+          "content": "1915"
+        }
+      ],
+      "identifier": [
+        {
+          "label": "Object number",
+          "content": "1982.80.4"
+        }
+      ],
+      "creditLine": [
+        {
+          "label": "Credit Line",
+          "content": "Smithsonian American Art Museum, Museum purchase"
+        }
+      ],
+      "name": [
+        {
+          "label": "Artist",
+          "content": "Mildred McMillen, born Chicago, IL 1884-died ca. 1940"
+        }
+      ],
+      "topic": [
+        {
+          "label": "Topic",
+          "content": "Figure group"
+        },
+        {
+          "label": "Topic",
+          "content": "Occupation\\industry\\construction"
+        },
+        {
+          "label": "Topic",
+          "content": "Landscape\\building"
+        },
+        {
+          "label": "Topic",
+          "content": "Architecture Exterior\\detail\\fence"
+        },
+        {
+          "label": "Topic",
+          "content": "Architecture Exterior\\detail\\roof"
+        }
+      ],
+      "physicalDescription": [
+        {
+          "label": "Medium",
+          "content": "woodcut on paper"
+        },
+        {
+          "label": "Dimensions",
+          "content": "image: 15 1/8 x 11 3/8 in. (38.3 x 28.9 cm)"
+        }
+      ],
+      "dataSource": [
+        {
+          "label": "Data Source",
+          "content": "Smithsonian American Art Museum"
+        }
+      ],
+      "objectRights": [
+        {
+          "label": "Restrictions & Rights",
+          "content": "CC0"
+        }
+      ],
+      "objectType": [
+        {
+          "label": "Type",
+          "content": "Graphic Arts-Print"
+        }
+      ]
+    }
+  },
+  "url": "edanmdm:saam_1982.80.4",
+  "hash": "00698e0922e82b5e1c5f85c0c90e9c33b86d6b23",
+  "docSignature": "5a159401685b40fa1a2de3d1372964b64e7a5544_2f7c8eb831a5b1fa51362246fb300e5a",
+  "timestamp": 1592555790,
+  "lastTimeUpdated": 1592555757,
+  "title": "Untitled"
+}
