@@ -7,15 +7,19 @@ This is a modification on the original example by the SI Data Science lab to rec
 Some additional libraries are needed for Python 3, please run the following commands in terminal to install them:
 
 Dask
+
 ```python -m pip install "dask[complete]"```
 
 S3FS
+
 ```pip install s3fs```
 
 Numpy
+
 ```pip install numpy```
 
 Pandas
+
 ```pip install pandas```
 
 
