@@ -7,22 +7,22 @@ This is a modification on the original example by the SI Data Science lab to rec
 Some additional libraries are needed for Python 3, please run the following commands in terminal to install them:
 
 Dask
-'''python -m pip install "dask[complete]"'''
+```python -m pip install "dask[complete]"```
 
 S3FS
-'''pip install s3fs'''
+```pip install s3fs```
 
 Numpy
-'''pip install numpy'''
+```pip install numpy```
 
 Pandas
-'''pip install pandas'''
+```pip install pandas```
 
 
 ###Running the file
 
 Run the file in python by typing
 
-'''python3 saam_metadata.py'''
+```python3 saam_metadata.py```
 
 This will save an example json record as well as a pickle file of the data repository. Some additional overviews of the datafile will be printed in console.
